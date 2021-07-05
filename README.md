@@ -6,9 +6,13 @@ This is a prediction of the TW stock, I modified the model and hyperparameters f
 ENV:
 
 Python
+
 TensorFlow
+
 yfinance
+
 matplotlib
+
 else...
 
 below is the library I used
